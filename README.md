@@ -3,19 +3,16 @@
 <!-- ================= HEADER ================= -->
 
 <p>
-  <img
-    src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif"
-    width="55"
-    alt="Animated Panda"
-  />
+  <span style="font-size: 32px; font-weight: 700;">
+    Hey, I'm Esrael 👋
+  </span>
   &nbsp;&nbsp;&nbsp;
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1800&pause=700&color=F97316&center=true&vCenter=true&width=390&height=40&lines=%3E+console.log(%22Hey%2C+I'm+Esrael%22);%3E+building+something+new...;%3E+learning+%26+improving..."
-    alt="Coding animation"
+    src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif"
+    width="75"
+    alt="Animated coding panda"
   />
 </p>
-
-<h1>Welcome to my GitHub! 🚀</h1>
 
 <p>
   <strong>Software Engineering Student · Frontend Developer · Full-Stack Developer</strong>
