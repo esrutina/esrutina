@@ -1,147 +1,184 @@
-# Esrael Enyew
+<div align="center">
 
-### Software Engineering Student · Full-Stack Developer · UI/UX Enthusiast
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,45:1E293B,75:F97316,100:0F172A&text=ESRAEL%20ENYEW&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=SOFTWARE%20ENGINEERING%20%7C%20FULL-STACK%20%7C%20UI%2FUX&descSize=15&descAlignY=62" width="100%"/>
 
-<p align="left">
+  <br/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=1800&pause=500&color=F97316&center=true&vCenter=true&width=820&height=55&lines=%E2%9C%A6+Building+modern+web+experiences;%E2%9C%A6+Turning+ideas+into+real+products;%E2%9C%A6+Designing+interfaces+people+love" alt="Typing intro"/>
+
+  <br/><br/>
+
   <a href="https://d1d91eba.mydala.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/%E2%86%92%20PORTFOLIO-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="mailto:esraelenyew@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-F97316?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:esraelenyew@gmail.com" style="margin-left:8px;">
+    <img src="https://img.shields.io/badge/%E2%86%92%20CONTACT-F97316?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/esrutina">
-    <img src="https://img.shields.io/badge/GitHub-esrutina-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+
+</div>
 
 ---
 
-## About Me
+## 👋 About Me
 
-I am **Esrael Enyew**, a third-year Software Engineering student at **Woldiya University** with a strong interest in frontend development, full-stack engineering, and UI/UX design.
+Hi, I’m **Esrael Enyew** — a **3rd-year Software Engineering** student at **Woldiya University**.  
+I build **clean, responsive web experiences** with a focus on **Frontend, Full‑Stack, and UI/UX**.
 
-I enjoy transforming ideas into clean, responsive, and practical digital products. My goal is to become a skilled full-stack developer who can contribute to every stage of product development—from planning and interface design to implementation and deployment.
-
-- 🎓 Studying Software Engineering at Woldiya University
-- 💻 Interested in frontend and full-stack development
-- 🎨 Passionate about UI/UX and product design
-- 🚀 Focused on building practical, user-centered products
-- ☕ Currently developing **X Cafe**
+**Currently aiming:** to become a strong **Full‑Stack Developer**, shipping products from idea → design → implementation.
 
 ---
 
-## Current Project: X Cafe
+## 🔧 What I’m Working On
 
-**X Cafe** is a modern café platform designed to provide a smooth and convenient digital ordering experience.
+<div align="center">
 
-### Current Focus
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0F172A&text=%E2%98%95%20X%20CAFE&fontSize=38&fontColor=FFFFFF&animation=twinkling" width="85%"/>
 
-- Responsive frontend development
-- Customer ordering flows
-- Dashboard interfaces
-- Product and menu management
-- Clean and accessible UI design
-- Improving the overall user experience
+  <br/><br/>
 
-### Technologies
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2200&pause=700&color=F97316&center=true&vCenter=true&width=720&height=40&lines=Modern+Cafe+Ordering+Experience;Designing+%2B+Building+%2B+Improving;Next.js+%7C+TypeScript+%7C+React+%7C+Tailwind+%7C+PostgreSQL" />
 
-`Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `PostgreSQL`
+</div>
 
----
-
-## Skills & Technologies
-
-### Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend technologies"/>
-</p>
-
-### Backend & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=php,java,cpp,postgres,mysql" alt="Backend and database technologies"/>
-</p>
-
-### Tools & Design
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Development and design tools"/>
-</p>
+**Focus areas**
+- 🎨 Frontend experience
+- 🖥️ Dashboard interfaces
+- 🛒 Ordering flow
+- 📱 Responsive product UI
+- ✨ Overall UX polish
 
 ---
 
-## Featured Projects
+## 📚 Currently Learning
 
-### X Cafe
+<div align="center">
 
-A modern café ordering platform focused on creating a simple and efficient digital customer experience.
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1800&pause=500&color=F97316&center=true&vCenter=true&width=820&height=45&lines=Next.js+%E2%9A%A1;TypeScript+%F0%9F%94%B7;PostgreSQL+%F0%9F%97%84%EF%B8%8F;Full-Stack+Architecture+%F0%9F%8F%97%EF%B8%8F;UI%2FUX+Design+%F0%9F%8E%A8;Product+Thinking+%F0%9F%92%A1" />
 
-**Tech stack:**  
-`Next.js` · `TypeScript` · `React` · `Tailwind CSS` · `PostgreSQL`
+  <br/>
 
----
+  <div>
+    <code>Next.js</code> <code style="margin-left:6px;">TypeScript</code>
+    <code style="margin-left:6px;">PostgreSQL</code>
+    <code style="margin-left:6px;">UI/UX</code>
+  </div>
 
-### Rio Ecommerce
-
-An e-commerce platform with product management and payment workflow integration.
-
-**Tech stack:**  
-`PHP` · `MySQL` · `Chapa`
+</div>
 
 ---
 
-### Smart Journal
+## 🛠️ Skills
 
-A simple digital journaling application for creating and managing personal journal entries.
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=7" />
 
-**Tech stack:**  
-`PHP` · `MySQL`
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=php,java,cpp,postgres,mysql&perline=5" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=4" />
 
 ---
 
-<p>
+## 🚀 Featured Projects
+
+<div align="center">
+
+  <table>
+    <tr>
+      <td width="33%" align="center">
+
+        <a href="https://github.com/esrutina">
+          <img src="https://capsule-render.vercel.app/api?type=rect&height=130&color=0F172A&text=%E2%98%95&fontSize=55&fontColor=F97316&animation=twinkling" width="100%"/>
+        </a>
+
+        <br/>
+        <b>X CAFE</b>
+        <br/>
+        <span>Modern café ordering experience.</span>
+
+        <br/><br/>
+
+        `Next.js` `TypeScript` `Tailwind CSS` `PostgreSQL`
+
+      </td>
+
+      <td width="33%" align="center">
+
+        <a href="https://github.com/esrutina">
+          <img src="https://capsule-render.vercel.app/api?type=rect&height=130&color=1E293B&text=%E2%86%92&fontSize=55&fontColor=F97316&animation=twinkling" width="100%"/>
+        </a>
+
+        <br/>
+        <b>RIO ECOMMERCE</b>
+        <br/>
+        <span>E-commerce platform with payment workflow.</span>
+
+        <br/><br/>
+
+        `PHP` `MySQL` `Chapa`
+
+      </td>
+
+      <td width="33%" align="center">
+
+        <a href="https://github.com/esrutina">
+          <img src="https://capsule-render.vercel.app/api?type=rect&height=130&color=0F172A&text=%E2%9C%A6&fontSize=55&fontColor=F97316&animation=twinkling" width="100%"/>
+        </a>
+
+        <br/>
+        <b>SMART JOURNAL</b>
+        <br/>
+        <span>Simple digital journal application.</span>
+
+        <br/><br/>
+
+        `PHP` `MySQL`
+
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
   <a href="https://github.com/esrutina?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="View all projects"/>
+    <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-%E2%86%92-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
+
+</div>
 
 ---
 
-## Currently Learning
+## 📈 GitHub Activity
 
-- Next.js and modern React development
-- TypeScript
-- PostgreSQL
-- Full-stack application architecture
-- UI/UX design principles
-- Product thinking and user-centered design
-- Scalable and maintainable code organization
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=esrutina&bg_color=00000000&color=64748B&line=F97316&point=F97316&area=true&hide_border=true" width="95%"/>
+</div>
 
 ---
 
-## GitHub Activity
+## 🐍 Contribution Activity
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=esrutina&bg_color=00000000&color=64748B&line=F97316&point=F97316&area=true&hide_border=true" width="95%" alt="GitHub activity graph"/>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution animation" width="90%"/>
+</div>
 
 ---
 
-## Let's Connect
+## ✨ Final CTA
 
-I am always interested in learning, collaborating, and working on meaningful software projects.
+<div align="center">
 
-<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2500&pause=1000&color=F97316&center=true&vCenter=true&width=650&height=35&lines=Keep+Learning.+Keep+Building.+Keep+Improving.;See+you+in+the+next+commit+%E2%9C%A8" />
+
+  <br/><br/>
+
   <a href="https://d1d91eba.mydala.app">
-    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-%E2%86%92-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="mailto:esraelenyew@gmail.com">
-    <img src="https://img.shields.io/badge/Email-F97316?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/esrutina">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
 
-> **Keep learning. Keep building. Keep improving.**
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:F97316,50:1E293B,100:0F172A&animation=twinkling" width="100%"/>
+
+</div>
