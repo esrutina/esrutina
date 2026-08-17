@@ -130,7 +130,7 @@ customer experience.
 <code>Tailwind</code>
 </p>
 
-<a href="https://github.com/esrutina">
+<a href="https://x-cafe-eitb.vercel.app">
   <b>View Project →</b>
 </a>
 
