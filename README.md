@@ -3,14 +3,16 @@
 <!-- ================= HEADER ================= -->
 
 <p>
-  <span style="font-size: 32px; font-weight: 700;">
+  <span style="font-size: 32px; font-weight: 700; vertical-align: middle;">
     Hey, I'm Esrael 👋
   </span>
-  &nbsp;&nbsp;&nbsp;
+
   <img
-    src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif"
-    width="75"
+    src="https://media.tenor.com/kyJFTroNngQAAAAm/coding.webp"
+    width="60"
+    height="60"
     alt="Animated coding panda"
+    style="vertical-align: middle; margin-left: 12px;"
   />
 </p>
 
