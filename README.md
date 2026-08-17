@@ -242,7 +242,6 @@ simple interface.
 
 ---
 
-## 🐍 Contribution Snake
 
 <div align="center">
 
