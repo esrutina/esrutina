@@ -1,157 +1,153 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ipang-dwi/edff395dcb535aefa51e921b34d2cf7d/master/panda.gif" width="90" alt="Animated Panda"/>
+  <img alt="Panda" height="32px" width="38px" src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif">
 
-# ESRAEL ENYEW
+<b>Hey!</b>
 
-### Software Engineering Student • Full-Stack Developer • UI/UX Enthusiast
+  <img alt="Hello" height="30px" width="30px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=700&color=F97316&center=true&vCenter=true&width=650&lines=Building+modern+web+experiences;Turning+ideas+into+real+products;Frontend+%2B+Full-Stack+Development;Designing+with+UI%2FUX+in+mind;Currently+building+X+Cafe+%E2%98%95" alt="Animated typing"/>
+  <h3>Welcome to my GitHub! 🚀</h3>
 
-<br/>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=esrutina&color=F97316&style=flat" alt="Profile Views">
+    <img src="https://img.shields.io/github/followers/esrutina?label=Followers&style=flat&color=0F172A" alt="GitHub Followers">
+    <img src="https://img.shields.io/github/stars/esrutina?affiliations=OWNER&style=flat&color=F97316" alt="GitHub Stars">
+  </p>
 
-<a href="https://d1d91eba.mydala.app">
-<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:esraelenyew@gmail.com">
-<img src="https://img.shields.io/badge/Email-F97316?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/esrutina">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2200&pause=700&color=F97316&center=true&vCenter=true&width=650&lines=I'm+Esrael+Enyew;Software+Engineering+Student;Full-Stack+Developer;UI%2FUX+Enthusiast;Building+modern+web+experiences;Currently+building+X+Cafe+%E2%98%95" alt="Typing SVG">
+  </p>
 
-</div>
+  <hr>
 
----
+  <h2>💫 About Me</h2>
 
-## 👨‍💻 About Me
+  <p align="justify">
+    I'm <b>Esrael Enyew</b>, a 3rd-year Software Engineering student at
+    <b>Woldiya University</b> with a <b>3.67 GPA</b>.
+    I'm passionate about <b>frontend development, full-stack engineering,
+    and UI/UX design</b>.
+    I enjoy turning ideas into clean, responsive and meaningful digital
+    experiences — from designing the interface to building the working product.
+    I'm continuously learning, experimenting and improving my skills through
+    real-world projects.
+  </p>
 
-I'm **Esrael Enyew**, a 3rd-year Software Engineering student at **Woldiya University**.
+  <h2>🚀 Currently Working On</h2>
 
-I build modern web experiences across **frontend, full-stack development and UI/UX**, with a focus on turning ideas into useful, polished products.
+  <p>
+    ☕ <b>X Cafe</b> — A modern café ordering platform focused on
+    creating a smooth digital ordering experience.
+  </p>
 
----
+  <p>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+    <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+  </p>
 
-## 🚀 Currently Working On
+  <h2>📚 Currently Learning & Improving</h2>
 
-<div align="center">
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2000&pause=600&color=64748B&center=true&vCenter=true&width=600&lines=Full-Stack+Architecture;Advanced+Next.js+%26+TypeScript;PostgreSQL;UI%2FUX+%26+Product+Design;Clean+%26+Scalable+Code" alt="Learning">
+  </p>
 
-### ☕ X Cafe
+  <h2>🛠️ Languages & Tools</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2200&pause=700&color=F97316&center=true&vCenter=true&width=600&height=30&lines=Designing+%E2%86%92+Building+%E2%86%92+Improving;Modern+Cafe+Ordering+Experience" />
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  </p>
 
-`Next.js` `TypeScript` `React` `Tailwind CSS` `PostgreSQL`
+  <p>
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  </p>
 
-**Frontend • Dashboard • Ordering Flow • UI/UX**
+  <h2>✨ Featured Projects</h2>
 
-</div>
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <h3>☕ X Cafe</h3>
+        <p>Modern café ordering platform with a focus on UX, ordering and digital hospitality.</p>
+        <code>Next.js</code>
+        <code>TypeScript</code>
+        <code>Tailwind</code>
+      </td>
 
----
+```
+  <td align="center" width="33%">
+    <h3>🛒 Rio Ecommerce</h3>
+    <p>E-commerce platform exploring product management and online payment workflows.</p>
+    <code>PHP</code>
+    <code>MySQL</code>
+    <code>Chapa</code>
+  </td>
 
-## 📚 Currently Learning & Improving
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nextjs,ts,postgres,react,tailwind,figma" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2000&pause=600&color=64748B&center=true&vCenter=true&width=650&height=30&lines=Full-Stack+Architecture;UI%2FUX+%26+Product+Design;Writing+cleaner+and+scalable+code" />
-
-</div>
-
----
-
-## 🛠️ Skills
-
-<div align="center">
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-
-**Backend & Database**
-
-<img src="https://skillicons.dev/icons?i=php,java,cpp,postgres,mysql" />
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-
-</div>
-
----
-
-## ✨ Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-### ☕ X Cafe
-
-Modern café ordering experience.
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=11&duration=1800&pause=600&color=F97316&center=true&vCenter=true&width=210&height=25&lines=NEXT.JS+%7C+TYPESCRIPT" />
-
-</td>
-
-<td width="33%" align="center">
-
-### 🛒 Rio Ecommerce
-
-E-commerce platform with payment integration.
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=11&duration=1800&pause=600&color=F97316&center=true&vCenter=true&width=210&height=25&lines=PHP+%7C+MYSQL+%7C+CHAPA" />
-
-</td>
-
-<td width="33%" align="center">
-
-### 📓 Smart Journal
-
-Simple digital journal application.
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=11&duration=1800&pause=600&color=F97316&center=true&vCenter=true&width=210&height=25&lines=PHP+%7C+MYSQL" />
-
-</td>
-
+  <td align="center" width="33%">
+    <h3>📓 Smart Journal</h3>
+    <p>A simple digital journal application for managing personal content.</p>
+    <code>PHP</code>
+    <code>MySQL</code>
+  </td>
 </tr>
-</table>
+```
 
-<br/>
+  </table>
 
-<a href="https://github.com/esrutina?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-%E2%86%92-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+  <h2>🏆 Achievements</h2>
+
+  <p>
+    🎓 <b>3rd-year Software Engineering Student</b> at Woldiya University<br>
+    📈 Maintaining a <b>3.67 GPA</b><br>
+    💻 Building real-world projects across frontend, full-stack and UI/UX
+  </p>
+
+  <h2>💭 Quote</h2>
+
+  <p>
+    <i>"The best way to predict the future is to create it."</i>
+  </p>
+
+  <hr>
+
+  <h2>📫 How to Reach Me</h2>
+
+  <p>
+    <a href="https://d1d91eba.mydala.app">
+      <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white">
+    </a>
+
+```
+<a href="mailto:esraelenyew@gmail.com">
+  <img src="https://img.shields.io/badge/Email-F97316?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-</div>
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=esrutina&bg_color=00000000&color=64748B&line=F97316&point=F97316&area=true&hide_border=true" width="92%"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=900&color=F97316&center=true&vCenter=true&width=600&height=30&lines=Learn.+Build.+Improve.+Repeat.+%E2%9C%A8" />
-
-<br/><br/>
-
-<a href="https://d1d91eba.mydala.app">
-<img src="https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-%E2%86%92-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://github.com/esrutina">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
+```
+
+  </p>
+
+  <br>
+
+  <img src="https://raw.githubusercontent.com/esrutina/esrutina/output/github-contribution-grid-snake.svg" alt="Snake animation">
 
 </div>
